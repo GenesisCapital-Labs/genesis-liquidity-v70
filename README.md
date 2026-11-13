@@ -16,11 +16,11 @@ The V-70 Engine utilizes a hybrid Web3 infrastructure:
 ## Deployed Smart Contracts (BSC Mainnet)
 *The following contracts manage the algorithmic routing of USDT (BEP-20) liquidity within the Genesis100 ecosystem.*
 
-*   **Genesis Master Router (V-70):** 0x8932fe7726C1EE743F662f485C3e5a5D1D595F71
-*   **Liquidity Staking Pool (ALN):** 0xf117B3fEB0D3ad4932009806e897e9fa4e099867
-*   **Treasury & Validator Escrow:** 0x336e780FaE79fd951B82689c92Fc534F7dAd2D49
+*   **Genesis Master Router (V-70):** `0x8932fe7726C1EE743F662f485C3e5a5D1D595F71`
+*   **Liquidity Staking Pool (ALN):** `0xf117B3fEB0D3ad4932009806e897e9fa4e099867`
+*   **Treasury & Validator Escrow:** `0x336e780FaE79fd951B82689c92Fc534F7dAd2D49`
 
 ## Regulatory & Audit Status
 Genesis100 aligns with strict Web3 MiCA compliance frameworks. The contracts linked above have undergone continuous cryptographic security audits to ensure zero counterparty risk and absolute principal protection.
 
-*For full audit reports and legal VASP structuring, refer to our Legal & Compliance Documentation and the official documentation portal.*
+*For full audit reports and legal VASP structuring, refer to our Legal & Compliance Documentation `LEGAL_AND_COMPLIANCE.md` and the official documentation portal.*
