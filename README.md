@@ -23,4 +23,4 @@ The V-70 Engine utilizes a hybrid Web3 infrastructure:
 ## Regulatory & Audit Status
 Genesis100 aligns with strict Web3 MiCA compliance frameworks. The contracts linked above have undergone continuous cryptographic security audits to ensure zero counterparty risk and absolute principal protection.
 
-*For full audit reports and legal VASP structuring, refer to the official documentation portal.*
+*For full audit reports and legal VASP structuring, refer to our Legal & Compliance Documentation and the official documentation portal.*
